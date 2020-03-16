@@ -1,1 +1,1 @@
-study es6
+学习阮一峰老师《ECMAScript 6 入门》笔记 链接 https://es6.ruanyifeng.com/
